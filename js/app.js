@@ -59,7 +59,7 @@ function playAudioLinda(lindaButton) {
 
 function myOverBelcherName() {
 
-let belcherName = document.getElementById("belcherfamily");
+let belcherName = ""; 
     switch (0 === 0) {      
     case 0:                         
         document.getElementById("belcherfamily").textContent="Bob Belcher";        
