@@ -12,7 +12,6 @@ function bigImg(x) {
   }
 // Big / Little END
 
-// const name = ["Bob", "Linda", "Tina", "Gene", "Louise"];
 
 
 // Pictures START
@@ -54,7 +53,7 @@ function playAudioLinda(lindaButton) {
 } 
 
 
-
+// const name = ["Bob", "Linda", "Tina", "Gene", "Louise"];
 
 
 function myOverBelcherName() {
